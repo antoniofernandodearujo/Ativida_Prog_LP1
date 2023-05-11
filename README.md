@@ -1,14 +1,14 @@
-# Ativida_Prog
+# programming activity
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/antoniofernandodearujo/app_orcamento_pessoal/blob/main/LICENSE)
 
-## 👀 Sobre o projeto
+## 👀 About the project
 
-Pórtifolio com intuito de guardar as atividades das aulas de Linguagem de Programação, do curso de
-Engenharia de Computação da UFPB, use os códigos como uma ferramenta para ajudar nos estudos.
+Portfolio in order to save the activities of the Programming Language classes, the
+UFPB Computer Engineering, use the codes as a tool to help with studies.
 
-## 🧑🏾‍💻 Autor
+## 🧑🏾‍💻 Author
 Antônio Fernando de Araújo Silva
-### Como entrar em contato ?
-Caso queira discutir ou surgiu alguma dúvida pode estar entrando em contato:
+### How to contact ?
+If you want to discuss or if you have any questions, please contact:
 
 [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afas@academico.ufpb.br)
